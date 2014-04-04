@@ -1,0 +1,35 @@
+@media screen and (max-width: 550px) {
+	body { 
+		font-size: 20px
+	}
+}
+
+body {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+}
+
+div{
+	width: 33.3%;
+	float: left;
+}
+
+/* DO NOT USE !important */
+/* DON'T YOU EVER USE IT! -Chris Rolfs */
+/* NEVER */
+/* NEVER EVER */
+/* NEVER */
+
+.div1{
+	background-color: red;
+}
+
+.div2{
+	background-color: green;
+}
+
+.div3{
+	background-color: blue;
+}
